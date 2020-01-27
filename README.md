@@ -6,6 +6,8 @@ Server GitHub: https://github.com/hskang135/Battleship-Server
 
 Client GitHub: https://github.com/hskang135/Battleship-Client
 
+_________
+
 ## Summary
 
 Welcome to Battleship! The interactive game where you can challenge opponents in the classic game of sinking ships. 
