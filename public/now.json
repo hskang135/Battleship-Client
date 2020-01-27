@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "alias": "battleship",
-  "name": "battleship",
+  "alias": "battleship35",
+  "name": "battleship35",
   "routes": [
     {
       "src": "^/static/(.*)",

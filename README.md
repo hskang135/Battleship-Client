@@ -1,6 +1,6 @@
 # Battleship Client
 
-Live app: https://capstone3-battleship.now.sh/
+Live app: https://battleship35.now.sh/
 
 Server GitHub: https://github.com/hskang135/Battleship-Server
 
