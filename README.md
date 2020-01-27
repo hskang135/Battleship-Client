@@ -2,7 +2,9 @@
 
 Live app: https://capstone3-battleship.now.sh/
 
-Server GitHub: https://github.com/thinkful-ei-heron/Group1-Capstone3-Server
+Server GitHub: https://github.com/hskang135/Battleship-Server
+
+Client GitHub: https://github.com/hskang135/Battleship-Client
 
 ## Summary
 
@@ -32,19 +34,27 @@ This application allows the user to play a live game of battleship against anoth
 
 3. Once both players have set their ships the match begins.
 
+_________
+
 ### Resuming an active game
 
 1. To resume a game its as easy as clicking the 'Resume Game' button on the game you wish to enter.
 2. Take note that not all games will have an opponent to start off with as we wait to match you against another person.
 3. Games where it is your turn to move are nearer to the top.
 
+_________
+
 ### Forfeiting a match
 
 1. If you no longer wish to continue a match you may select the 'Quit Game' button then the 'Quit Game Now' button from the dashboard.
 
+_________
+
 ## Technology Used
 
-Javascript, React, CSS, HTML, Socket.io
+Javascript, React, CSS, HTML, Socket.io, JWT
+
+_________
 
 ## Screenshots
 
@@ -71,6 +81,8 @@ Game History Page
 
 Help Page
 ![help](./Screenshot/helppage.png)
+
+_________
 
 ## Programmers
 
