@@ -59,7 +59,7 @@ _________
 ## Screenshots
 
 Landing Page
-![landing](./Screenshot/landingpage.png)
+![landing](./Screenshot/landing.png)
 
 Login Page
 ![login](./Screenshot/login.png)
