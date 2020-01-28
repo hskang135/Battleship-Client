@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 import LoadGameApiService from '../../Services/load-game-api-service';
 import Button from '../Button/Button';
+import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import './Result.css';
 
@@ -59,8 +60,6 @@ class Result extends Component {
 
   updateResults = () => {
     let playerString = this.props.results.player;
-
-
     let hits = this.state[`${playerString}_hits`].length;
     let misses = this.state[`${playerString}_misses`].length;
     let totalShots = hits + misses;
@@ -115,9 +114,10 @@ class Result extends Component {
           this.props.history.push('/dashboard')
         }}> Exit
         </Button>
+
+        <Footer />
         
       </div>
-    
     );
   };
 };
